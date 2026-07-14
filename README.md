@@ -2,7 +2,6 @@
 
 單頁靜態電子卡片，沒有留言、貼圖或雲端同步功能。
 
-- 主照片：`assets/director-portrait-styled.jpg`
-- 法院意象背景：`assets/court-background-clear.jpg`
+- 主視覺：`assets/director-watercolor-hero.png`
 - 公開頁輸出：`github-pages/`
 - 單檔輸出：`github-pages-single/index.html`
